@@ -1,0 +1,18 @@
+{
+  "name": "MyApp",
+  "version": "1.0.0",
+  "description": "Hapi tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "medium.com/@_expr/the-pursuit-of-hapi-ness-d82777afaa4b",
+  "license": "ISC",
+  "dependencies": {
+    "catbox": "^4.2.1",
+    "catbox-memory": "^1.1.1",
+    "catbox-redis": "^1.0.4",
+    "hapi": "^8.2.0",
+    "joi": "^5.1.0"
+  }
+}
